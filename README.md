@@ -1,2 +1,2 @@
-# working-with-javascript-notes
-Prep for javascript interview notes
+# javascript-coding-code-snipped
+Javascript coding code snipped
