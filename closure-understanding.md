@@ -1,6 +1,4 @@
-from pathlib import Path
-
-js_snippet_3 = """# 🧠 JavaScript Interview Code Snippet #3 — Closures
+js_snippet_3 = """# 🧠 JavaScript — Closures
 
 ## 📌 Issue: Understanding Closures
 

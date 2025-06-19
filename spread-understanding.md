@@ -61,6 +61,3 @@ sum(...[1, 2, 3]);
 It throws an error — only iterables (like arrays, strings) can be spread.
 
 ⸻
-
-
-Let me know if you’d like the next one on optional chaining (`?.`), nullish coalescing (`??`), or ES module imports/exports.

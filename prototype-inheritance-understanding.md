@@ -1,8 +1,3 @@
-Here is the raw content for the next JavaScript interview prep snippet — focused on Prototype Inheritance:
-
-⸻
-
-
 # 🧠 JavaScript — Prototype Inheritance
 
 ## 📌 Issue: Understanding JavaScript's prototype chain
@@ -61,6 +56,3 @@ Using class and extends, which is syntactic sugar over prototype inheritance.
 Yes, by redefining the method directly on the instance or subclass prototype.
 
 ⸻
-
-
-Let me know if you’d like the next snippet on `spread/rest`, optional chaining, or ES module imports.

@@ -67,6 +67,3 @@ const { age = 30 } = user;
 Absolutely — that’s called array destructuring.
 
 ⸻
-
-
-Let me know if you want the next snippet on prototype inheritance, spread/rest operators, or module imports/exports.

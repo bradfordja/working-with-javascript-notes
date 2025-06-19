@@ -1,4 +1,4 @@
-# 🧠 JavaScript Interview Code Snippet #12 — Optional Chaining (`?.`)
+# 🧠 JavaScript — Optional Chaining (`?.`)
 
 ## 📌 Issue: Safely accessing deeply nested object properties
 
@@ -65,6 +65,3 @@ user.sayHello?.()
 Only works with undefined or null, not with other falsy values like '' or 0.
 
 ⸻
-
-
-Let me know if you'd like the next one on nullish coalescing (`??`), ES module syntax, or event delegation.

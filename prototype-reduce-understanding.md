@@ -51,6 +51,3 @@ reduce() is perfect for:
 	•	The first array element is used as the initial accumulator, and iteration starts from the second element.
 
 ⸻
-
-
-Let me know if you'd like the next snippet on object destructuring, prototype inheritance, or spreading/rest parameters.

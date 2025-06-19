@@ -1,4 +1,4 @@
-# 🧠 JavaScript Interview Code Snippet #1 — `==` vs `===` Comparison
+# 🧠 JavaScript — `==` vs `===` Comparison
 
 ## 📌 Issue: Type Coercion in Equality Check
 

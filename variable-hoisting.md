@@ -1,4 +1,4 @@
-# 🧠 JavaScript Interview Code Snippet #2 — Variable Hoisting
+# 🧠 JavaScript — Variable Hoisting
 
 ## 📌 Issue: Understanding Hoisting in JavaScript
 

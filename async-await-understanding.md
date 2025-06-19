@@ -57,6 +57,3 @@ Microtasks (e.g. Promises) run after the current stack but before any macrotasks
 Because Promise.then is a microtask and executes before the next event loop tick.
 
 ⸻
-
-
-Let me know if you'd like the next one — such as `Array.prototype.map`, `reduce`, or prototype inheritance.
